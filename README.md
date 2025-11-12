@@ -51,8 +51,6 @@ Make sure you have the following libraries installed:
 
 ### 🚀 **How to Run**
 
-1.  Clone or download the repository.
-2.  Install the required libraries (e.g., `pip install -r requirements.txt`).
-3.  Download the dataset from Kaggle: [https://www.kaggle.com/datasets/shree1992/housedata](https://www.kaggle.com/datasets/shree1992/housedata).
-4.  Update the `file_path` variable in the notebook to point to your `data.csv` location.
-5.  Open and run the Jupyter Notebook: `house_price_prediction.ipynb`.
+1.  Download the dataset from Kaggle: [https://www.kaggle.com/datasets/shree1992/housedata](https://www.kaggle.com/datasets/shree1992/housedata).
+2.  Update the `file_path` variable in the notebook to point to your `data.csv` location.
+3.  Open and run the Jupyter Notebook: `house_price_prediction.ipynb` (Click open in colab).
